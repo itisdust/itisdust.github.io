@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itisdust.github.io/sitemap.itisdust.gz
+Sitemap: https://itisdust.github.io/app/sitemap.itisdust.gz
+Sitemap: https://itisdust.github.io/assets/sitemap.itisdust.gz
+Sitemap: https://itisdust.github.io/css/sitemap.itisdust.gz
+Sitemap: https://itisdust.github.io/data/sitemap.itisdust.gz
+Sitemap: https://itisdust.github.io/includes/sitemap.itisdust.gz
+Sitemap: https://itisdust.github.io/item/sitemap.itisdust.gz
+Sitemap: https://itisdust.github.io/src/sitemap.itisdust.gz
